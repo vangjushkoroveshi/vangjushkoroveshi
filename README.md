@@ -4,7 +4,7 @@
 ## I'm a Test Automation Engineer.
 
 <a href="https://github.com/vangjushkoroveshi">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vangjushkoroveshi&count_private=true&show_icons=true">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vangjushkoroveshi&hide=postscript&layout=compact">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vangjushkoroveshi&count_private=true&show_icons=true">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vangjushkoroveshi&hide=postscript&layout=compact">
 </a>
 
